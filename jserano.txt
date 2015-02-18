@@ -1,1 +1,4 @@
 Github Account: jserano
+First Name: Jasmine
+Last Name: Serano
+Major: Computer Science
